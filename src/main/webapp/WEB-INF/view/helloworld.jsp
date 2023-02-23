@@ -9,6 +9,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Hello SpringBoot! hello~~~~ test
+	Hello SpringBoot! 
 </body>
 </html>      
