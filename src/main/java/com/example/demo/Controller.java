@@ -13,7 +13,7 @@ public class Controller {
 	
 	@GetMapping("ab")
 	public String m2() {
-		return "m2()-----";
+		return "소스 수정 후 war 재 업로드, 서버 종료없이-----";
 	}
 	
 }  
