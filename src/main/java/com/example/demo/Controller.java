@@ -7,7 +7,12 @@ public class Controller {
 
 	@RequestMapping("a")
 	public String m1() {
-		return "helloworld";
+		return "helloworld-----";
+	}
+	
+	@RequestMapping("ab")
+	public String m2() {
+		return "m2()-----";
 	}
 	
 }  
